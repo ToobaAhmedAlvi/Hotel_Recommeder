@@ -1,0 +1,6 @@
+gradio
+openai==0.27.7
+pandas
+requests
+sentence-transformers
+plotly
